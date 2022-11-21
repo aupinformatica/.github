@@ -1,4 +1,4 @@
-- 👋 @aupinformatica | account ufficiale del team di informatica di AUP
+- 👋 @aupinformatica | organizzazione GitHub ufficiale del team di informatica di AUP
 - [AUP](https://aup.it/) è un'associazione studentesca apartitica e autofinanziata il cui solo scopo è quello di tutelare gli studenti durante tutto il loro percorso accademico.
 - Ci trovi sui social:
   * [Instagram](https://www.instagram.com/aup.poliba/)
